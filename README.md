@@ -1,4 +1,10 @@
 ### Hi there 👋
+![BrunoASNascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoASNascimento&show_icons=true&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoASNascimento&layout=compact)
+
+![BrunoASNascimento's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrunoASNascimento)
+
 
 <!--
 **BrunoASNascimento/BrunoASNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
