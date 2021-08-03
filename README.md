@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![BrunoASNascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoASNascimento&show_icons=true&theme=react)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoASNascimento&layout=compact)
 
-![BrunoASNascimento's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrunoASNascimento)
+
+ ![Snake animation](https://github.com/BrunoASNascimento/BrunoASNascimento/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
