@@ -1,10 +1,12 @@
 ### Hi there 👋
+
 ![BrunoASNascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoASNascimento&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoASNascimento&layout=compact)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoASNascimento&layout=compact) -->
 
- ![Snake animation](https://github.com/BrunoASNascimento/BrunoASNascimento/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://wakatime.com/share/@BrunoASNascimento/fd69e693-62d5-4391-aa71-dd0583fd7c5e.svg)
 
+![Snake animation](https://github.com/BrunoASNascimento/BrunoASNascimento/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **BrunoASNascimento/BrunoASNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
